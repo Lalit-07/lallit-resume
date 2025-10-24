@@ -1,2 +1,2 @@
-# lallit-resume
+# lalit-resume
 resume from html
